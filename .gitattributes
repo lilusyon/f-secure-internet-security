@@ -1,0 +1,6 @@
+src/*.ts linguist-detectable
+public/**/*.html linguist-vendored
+
+*.json linguist-detectable=false
+src/**/*.tsx linguist-detectable
+dist/* linguist-vendored
